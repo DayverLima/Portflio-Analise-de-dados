@@ -1,4 +1,4 @@
-# Portfólio Analise de dados (Python)
+# Portfólio Analise de dados
 
 📊 Portfólio de Análise de Dados
 
