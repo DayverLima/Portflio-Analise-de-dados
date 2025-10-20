@@ -1,7 +1,5 @@
 -----
 
-## README.md
-
 # Análise de Fatores de Risco de Câncer
 
 **Descrição**
