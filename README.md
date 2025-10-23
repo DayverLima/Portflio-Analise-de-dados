@@ -49,10 +49,11 @@ Estrutura de projeto organizada
 
 Documentação detalhada (README + notebook markdown)
 
-| Projeto                 | Tema                    | Técnicas Utilizadas                               |
-| ----------------------- | ----------------------- | ------------------------------------------------- |
-| **Life Style Analysis** | Hábitos de vida e saúde | EDA, feature engineering, correlação, segmentação |
-| (Adicionar outros)      |                         |                                                   |
+| Projeto                 | Tema                             | Técnicas Utilizadas                                                          |
+| ----------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
+| **Life Style Analysis** | Hábitos de vida e saúde          | EDA, feature engineering, correlação, segmentação                            |
+| **Cancer Risk Factors** | Fatores de risco para câncer     | EDA, feature engineering, regressão, classificação, visualização, correlação |
+| **Amazon Products**     | Análise de produtos e avaliações | EDA, visualização, correlação                                                |
 
 🔎 Como avaliar meus projetos
 
