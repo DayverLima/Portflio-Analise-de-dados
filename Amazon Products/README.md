@@ -1,8 +1,3 @@
-Perfeito — o notebook **Amazon Products.ipynb** é uma análise exploratória de dados (EDA) de produtos da Amazon, com foco em limpeza, tratamento e exploração de preços, descontos e avaliações.
-Aqui está o **README.md** no mesmo estilo do exemplo que você enviou 👇
-
----
-
 ### Amazon Products – Análise de Dados
 
 Este projeto consiste em uma **Análise de Dados Exploratória (EDA)** aplicada a um conjunto de produtos da **Amazon**, com o objetivo de compreender padrões relacionados a **preço, desconto, avaliações e comportamento de usuários**.
@@ -71,5 +66,3 @@ A análise revelou **tendências valiosas** sobre os padrões de desconto, avali
 Os resultados podem servir como base para **modelos preditivos** (por exemplo, previsão de avaliações ou impacto de descontos nas vendas) ou para **análises de mercado** voltadas à otimização de campanhas promocionais.
 
 ---
-
-Deseja que eu gere o arquivo `README.md` formatado e pronto para download com esse conteúdo?
